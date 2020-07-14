@@ -1,9 +1,9 @@
 
 Corgis: https://corgis-edu.github.io/corgis/csv/video_games/
-	(video_gamess.csv)
+	(video_games.csv)
 	
-Economics: https://researchportal.port.ac.uk/portal/en/datasets/video-games-dataset(d4fe28cd-1e44-4d2f-9db6-85b347bf761e).html
-	(Managerial_and_Decision_Economics_2013_Video_Games_Dataset.csv)
+https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
+	(steam.csv)
 	
-Kaggle: https://www.kaggle.com/skateddu/metacritic-critic-games-reviews-20112019
-	(metacritic_reviews.csv)
+https://www.kaggle.com/tamber/steam-video-games
+	(steam-200k.csv)
