@@ -4,6 +4,3 @@ Corgis: https://corgis-edu.github.io/corgis/csv/video_games/
 	
 https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
 	(steam.csv)
-	
-https://www.kaggle.com/tamber/steam-video-games
-	(steam-200k.csv)
