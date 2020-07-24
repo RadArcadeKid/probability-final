@@ -1,6 +1,2 @@
-
 Corgis: https://corgis-edu.github.io/corgis/csv/video_games/
 	(video_games.csv)
-	
-https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
-	(steam.csv)
